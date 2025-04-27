@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495945418891",
+    "project_id": "authenticationunivates",
+    "storage_bucket": "authenticationunivates.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495945418891:android:f7e52393e909503cba6c8e",
+        "android_client_info": {
+          "package_name": "com.example.googleauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbO6fOZEmFljyUThuYm08rliIyF0BgWLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
